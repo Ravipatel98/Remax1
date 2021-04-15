@@ -1,0 +1,10 @@
+C:\Users\Ravi patel\source\repos\Finalprojectsem3\PrjWinRemex\PrjWinRemex\bin\Debug\PrjWinRemex.exe.config
+C:\Users\Ravi patel\source\repos\Finalprojectsem3\PrjWinRemex\PrjWinRemex\bin\Debug\PrjWinRemex.exe
+C:\Users\Ravi patel\source\repos\Finalprojectsem3\PrjWinRemex\PrjWinRemex\bin\Debug\PrjWinRemex.pdb
+C:\Users\Ravi patel\source\repos\Finalprojectsem3\PrjWinRemex\PrjWinRemex\obj\Debug\PrjWinRemex.csprojAssemblyReference.cache
+C:\Users\Ravi patel\source\repos\Finalprojectsem3\PrjWinRemex\PrjWinRemex\obj\Debug\PrjWinRemex.Form1.resources
+C:\Users\Ravi patel\source\repos\Finalprojectsem3\PrjWinRemex\PrjWinRemex\obj\Debug\PrjWinRemex.Properties.Resources.resources
+C:\Users\Ravi patel\source\repos\Finalprojectsem3\PrjWinRemex\PrjWinRemex\obj\Debug\PrjWinRemex.csproj.GenerateResource.cache
+C:\Users\Ravi patel\source\repos\Finalprojectsem3\PrjWinRemex\PrjWinRemex\obj\Debug\PrjWinRemex.csproj.CoreCompileInputs.cache
+C:\Users\Ravi patel\source\repos\Finalprojectsem3\PrjWinRemex\PrjWinRemex\obj\Debug\PrjWinRemex.exe
+C:\Users\Ravi patel\source\repos\Finalprojectsem3\PrjWinRemex\PrjWinRemex\obj\Debug\PrjWinRemex.pdb
