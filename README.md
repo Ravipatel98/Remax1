@@ -13,3 +13,7 @@ Library of classes for the entities: Company, Employees (User, Admin or Agent), 
 Class that encapsulates the database (access) and provides public interfaces for feeding data to the business layer and writing data back to the database.
 Microsoft Access database that will contains all the needed data for Remax (Sales bonus).
 
+For the GUI Layer : Used friendly and thematic (Remax related colors and images) windows forms interfaces.
+For the Business Layer : Applied Object Oriented Concepts like classification (inheritance, composition and aggregate), encapsulation (dotNet’s objects).
+For the Datasource Layer : Used Ado.net
+
